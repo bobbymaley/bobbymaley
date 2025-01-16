@@ -1,4 +1,5 @@
 ## Hi there 👋
+##### I am new at this but learning. Interested to see where this takes me or if I get anywhere at all. 
 
 <!--
 **bobbymaley/bobbymaley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
